@@ -1,2 +1,5 @@
-# lam-jam
-a happy birthday to the php wizard himself
+# a happy birthday gift
+
+to derek lam, the one and only.
+
+@acrylic-origami
